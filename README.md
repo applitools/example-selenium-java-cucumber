@@ -11,7 +11,7 @@ It uses:
 * [Selenium WebDriver](https://www.selenium.dev/) for browser automation
 * [Google Chrome](https://www.google.com/chrome/downloads/) as the local browser for testing
 * [Apache Maven](https://maven.apache.org/index.html) for dependency management
-* [JUnit 5](https://junit.org/junit5/) as the core test framework
+* [Cucumber-JVM](https://cucumber.io/docs/installation/java/) with [JUnit 5](https://junit.org/junit5/) as the core test framework
 * [Applitools Eyes](https://applitools.com/platform/eyes/) for visual testing
 
 It can also run tests with:
